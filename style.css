@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    background-color:#EAF6F6;
+}
+
+ 
+hr{
+  
+border-color: grey;
+border-style: dotted  none none;
+border-width : 5px;
+width: 5%;
+
+}
+.BUTUN :hover {
+    background-color: red;
+    
+    
+}
+#emg :hover{
+    background-color: gold;
+    border-radius: 55px;
+}/*qaybta sawir*/
+.contuct{
+  font-size: 200;
+}
+/*pageka labaad*/
+.gaming{
+    font-size: larger;
+    color: black;
+}
+.hobbies{
+    font-size: 300px;
+    color: black;
+}
+
+
+
